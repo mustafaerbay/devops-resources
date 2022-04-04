@@ -222,6 +222,7 @@ Name | Comments
 [The DevOps Handbook](https://www.amazon.com/dp/1942788002) |
 [Google SRE books](https://landing.google.com/sre/books) | Very detailed books on the theory and also practice of SRE
 [Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code) | VBook about automating software infrastructure by capturing desired configurations as a set of scripts.
+[Linux SysOps Handbooks](https://abarrak.gitbook.io/linux-sysops-handbook/) | A study notes book for the common knowledge and tasks of a Linux system admin.
 
 ## Blogs & News
 
